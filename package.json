@@ -1,6 +1,6 @@
 {
   "name": "@aestheticbookshelf/confutils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Configuration utils.",
   "main": "lib/confutils.js",
   "scripts": {
@@ -21,5 +21,7 @@
     "type": "git",
     "url": "https://github.com/aestheticbookshelf/confutils.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@aestheticbookshelf/fileutils": "^1.0.2"
+  }
 }
