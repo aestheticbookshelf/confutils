@@ -1,6 +1,6 @@
 {
   "name": "@aestheticbookshelf/confutils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Configuration utils.",
   "main": "lib/confutils.js",
   "scripts": {
