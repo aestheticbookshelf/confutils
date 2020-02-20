@@ -8,3 +8,5 @@ cu.writeFileToConfig("common", "default", "SACCKEY", path.join(__dirname, "env/s
 cu.writeMakeEnvScript([["common", "default"]], "makeenv.bat")
 
 cu.fromChunksToFile("SACCKEY", path.join(__dirname, "env/sacckey.json"))
+
+cu.writeHerokuConfig("abminapp")
