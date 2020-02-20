@@ -1,0 +1,3 @@
+# confutils
+
+Configuration utils.

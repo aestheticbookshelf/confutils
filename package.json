@@ -1,0 +1,25 @@
+{
+  "name": "@aestheticbookshelf/confutils",
+  "version": "1.0.1",
+  "description": "Configuration utils.",
+  "main": "lib/confutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "configuration",
+    "utils"
+  ],
+  "author": "aestheticbookshelf",
+  "license": "MIT",
+  "homepage": "https://github.com/aestheticbookshelf/confutils",
+  "bugs": {
+    "url": "https://github.com/aestheticbookshelf/confutils/issues",
+    "email": "aestheticbookshelf@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aestheticbookshelf/confutils.git"
+  },
+  "dependencies": {}
+}
