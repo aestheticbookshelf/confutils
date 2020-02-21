@@ -1,6 +1,6 @@
 {
   "name": "@aestheticbookshelf/confutils",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Configuration utils.",
   "main": "lib/confutils.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/aestheticbookshelf/confutils.git"
   },
   "dependencies": {
-    "@aestheticbookshelf/fileutils": "^1.0.2",
+    "@aestheticbookshelf/fileutils": "^1.0.3",
     "firebase-admin": "^8.9.2",
     "heroku-client": "^3.1.0"
   }
